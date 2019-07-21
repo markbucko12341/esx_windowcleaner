@@ -1,12 +1,12 @@
-# esx_poolcleaner
+# esx_windowcleaner
 
 Pool Cleaner Job for ESX
 
 # Getting Started
 
-1. Add esx_poolcleaner folder into resources
+1. Add esx_windowcleaner folder into resources
 2. Add in server.cfg
-3. Add esx_poolcleaner.sql to database
+3. Add esx_windowcleaner.sql to database
 
 # Configuration
 
