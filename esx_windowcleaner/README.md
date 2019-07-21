@@ -1,6 +1,6 @@
 # esx_windowcleaner
 
-Pool Cleaner Job for ESX
+Windowe cleaner Job for ESX
 
 # Getting Started
 
