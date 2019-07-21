@@ -1,14 +1,16 @@
 # esx_windowcleaner
 
 REPLACE THIS IN THE SQL OTHERWISE YOU WILL RUN IN TO AN ERROR  
-==================================================================================
-***THIS PART***
+
+*THIS PART*
 INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES
 ('contrat', 'W.C receipt', 100, 0, 1)
-==================================================================================
-***TO THIS***
+
+
+*TO THIS*
 INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES
 ('receipt', 'W.C receipt', 100, 0, 1)
+
 ====================================================================================
 Window cleaner Job for ESX
 
