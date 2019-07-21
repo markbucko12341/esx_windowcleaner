@@ -1,6 +1,6 @@
 # esx_windowcleaner
 
-Windowe cleaner Job for ESX
+Window cleaner Job for ESX
 
 # Getting Started
 
